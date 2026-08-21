@@ -1,5 +1,5 @@
 """
-Programmers Level 1
+Programmers Level 5
 
 문제: 방의 개수
 """

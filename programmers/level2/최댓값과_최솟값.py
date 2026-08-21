@@ -1,5 +1,5 @@
 """
-Programmers Level 1
+Programmers Level 2
 
 문제: 최댓값과 최솟값
 """
